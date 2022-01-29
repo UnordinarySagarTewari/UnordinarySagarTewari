@@ -42,8 +42,9 @@
     <a href="https://github.com/UnordinarySagarTewari/github-readme-stats"><img alt="Sagar Tewari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=UnordinarySagarTewari&show_icons=true&count_private=true&theme=merko&hide_border=true" /></a>
   <a href="https://github.com/UnordinarySagarTewari/github-readme-stats"><img alt="Sagar Tewari's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnordinarySagarTewari&langs_count=8&count_private=true&layout=compact&theme=great-gatsby&hide_border=true" /></a>
   <br/>
+  <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?rjoydip" frameborder="0"></iframe>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't even begin to reflect my experience or skill level.
-
+    
 
 <br/>
 <br/>

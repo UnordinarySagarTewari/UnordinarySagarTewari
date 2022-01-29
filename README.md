@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sagar</h1>
 
 ---
-## I'm a student,Artificial Intelligence enthusiast and amateur graphic designer
+## I'm a student, Artificial Intelligence enthusiast and amateur graphic designer
 
 - 🔭 I’m currently working on exploring new tech fields and mastering the ones I already dable in 
 - 🌱 I’m currently learning everything 🤣
@@ -30,7 +30,7 @@
 </p>
 
 ---
-## 📊 My Github Stats
+### 📊 My Github Statistics:
 
   <p align="center">
     <a href="https://github.com/UnordinarySagarTewari/github-readme-streak-stats">
@@ -43,12 +43,9 @@
   <a href="https://github.com/UnordinarySagarTewari/github-readme-stats"><img alt="Sagar Tewari's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnordinarySagarTewari&langs_count=8&count_private=true&layout=compact&theme=great-gatsby&hide_border=true" /></a>
   <br/>
   
- <a href = "https://ionicabizau.github.io/github-profile-languages/api.html?UnordinarySagarTewari"><img src="https://github.com/UnordinarySagarTewari/TopLang/blob/main/top%20languages.PNG"/></a>
- <br/>
- <p align="center"><b>CLICK THE ABOVE IMAGE TO LOOK AT A MORE ACCURATE TOP LANGUAGES'S COMPOSITION</b></p>
  <br/>
  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't even begin to reflect my experience or skill level.
+  <b>Note: Top Languages is only a metric of the languages my public code consists of and doesn't even begin to reflect my experience or skill level.</b>
     
 
 <br/>
@@ -56,5 +53,12 @@
 
 <a href="https://github.com/UnordinarySagarTewari/github-readme-activity-graph"><img alt="Sagar Tewari's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=UnordinarySagarTewari&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
+<br/>
+<br/>
+
+
+### My GitHub Profile Trophies:
+
+<a href="https://github.com/UnordinarySagarTewari/github-profile-trophy"><img alt="Sagar Tewari's Trophies" src="https://github-profile-trophy.vercel.app/?username=UnordinarySagarTewari&theme=juicyfresh" /></a>
 <br/>
 <br/>
